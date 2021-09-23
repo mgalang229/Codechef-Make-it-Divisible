@@ -11,6 +11,7 @@ void solve() {
 		cout << "3\n";
 		return;
 	}
+	//make sure that sum of digits is equal to 6
 	cout << 3;
 	for(int i=1; i<n-1; ++i)
 		cout << 0;
